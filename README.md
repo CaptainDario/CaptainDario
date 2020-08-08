@@ -27,5 +27,7 @@ I am a computer science student with interested in AI, App development, IoT and 
 - [Freely Levitating Lamp](https://www.instructables.com/id/Freely-Levitating-Lamp/)
 <!-- INSTRUCTABLES:END -->
 
-I am using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the awesome github stats.
+</br>
+</br>
+I am using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the awesome github stats. </br>
 I am using [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow) for the awesome always up-to date feed(s).
