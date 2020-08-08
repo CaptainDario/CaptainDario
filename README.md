@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: Different IoT projects and a first app prototype.
-- 🌱 I’m currently learning: AI, IoT and App development.
+- 🌱 I’m currently learning: AI, IoT, App development and declarative CAD.
 - ⚡ Fun fact: In love with programming and human languages.
 
 
