@@ -3,7 +3,7 @@ name: Latest Instructables
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
