@@ -13,11 +13,11 @@ I am a computer science student with interested in AI, App development, IoT and 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Make your own 3D-jigsaw-puzzles](https://www.youtube.com/watch?v=Sl4_0uPr6Pk)
 - [Epic watercooled RGB workstation PC [timelapse]](https://www.youtube.com/watch?v=nSBbka363sI)
 - [An automated laser-pointer-toy](https://www.youtube.com/watch?v=vp5igMt3IM0)
 - [DIY RGB LED Matrix](https://www.youtube.com/watch?v=JtgvVUUX6ng)
 - [Building a levitating lamp](https://www.youtube.com/watch?v=H9U5d88-Mq0)
-- [Run Linux on your iPad with Android and Andronix](https://www.youtube.com/watch?v=C-ZX_SLewnM)
 <!-- YOUTUBE:END -->
 
 ### 🎓 Latest Instructables
