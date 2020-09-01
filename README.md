@@ -22,6 +22,7 @@ I am a computer science student with interested in AI, App development, IoT and 
 
 ### 🎓 Latest Instructables
 <!-- INSTRUCTABLES:START -->
+- [Store Your Headphones in Style](https://www.instructables.com/id/Store-Your-Headphones-in-Style/)
 - [WiFi Enabled Matrix Lamp](https://www.instructables.com/id/WiFi-Enabled-Matrix-Lamp/)
 - [Make Your Own 3D-jigsaw-puzzle](https://www.instructables.com/id/Make-Your-Own-3D-jigsaw-puzzle/)
 - [DaPetToy - an Automated Cat-laser-pointer-toy](https://www.instructables.com/id/An-Automated-Cat-laser-pointer-toy/)
