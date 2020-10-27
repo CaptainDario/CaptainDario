@@ -6,7 +6,7 @@
 - ⚡ Fun fact: In love with programming and human languages.
 
 
-I am a computer science student my focus lies in AI, App development and IoT.
+I am a computer science student and my main focus lies in AI, App development and IoT. </br>
 Main programming languages: Python, C#, C++
 
 ![CaptainDario's github stats](https://github-readme-stats.vercel.app/api?username=captaindario&count_private=true)
