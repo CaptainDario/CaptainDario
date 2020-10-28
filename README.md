@@ -10,7 +10,7 @@ I am a computer science student and my main focus lies in AI, App development an
 Main programming languages: Python, C#, C++
 
 ![CaptainDario's github stats](https://github-readme-stats.vercel.app/api?username=captaindario&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captaindario&hide=g-code)](https://github.com/captaindario/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captaindario&hide=g-code&langs_count=8&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
