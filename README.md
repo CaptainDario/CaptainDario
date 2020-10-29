@@ -7,7 +7,9 @@
 
 
 I am a computer science student and my main focus lies in AI, App development and IoT. </br>
-Main programming languages: Python, C#, C++
+Main programming languages: Python, C#, C++ </br>
+</br>
+My mobile Apps/Games on the [Play Store](https://play.google.com/store/apps/developer?id=DaAppLab&hl=de).
 
 ![CaptainDario's github stats](https://github-readme-stats.vercel.app/api?username=captaindario&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captaindario&hide=g-code&langs_count=8&layout=compact)](https://github.com/captaindario/github-readme-stats)
