@@ -34,5 +34,5 @@ My mobile Apps/Games on the [Play Store](https://play.google.com/store/apps/deve
 
 </br>
 </br>
-I am using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for the awesome github stats. </br>
-I am using [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow) for the awesome always up-to date feed(s).
+I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. </br>
+I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-workflow/) for the awesome always up-to date feed(s).
