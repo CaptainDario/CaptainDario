@@ -16,11 +16,11 @@ My mobile Apps/Games on the [Play Store](https://play.google.com/store/apps/deve
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Building an awesome headphone holder](https://www.youtube.com/watch?v=rAv23blQrkI)
 - [Make your own 3D-jigsaw-puzzles](https://www.youtube.com/watch?v=Sl4_0uPr6Pk)
 - [Epic watercooled RGB workstation PC [timelapse]](https://www.youtube.com/watch?v=nSBbka363sI)
 - [An automated laser-pointer-toy](https://www.youtube.com/watch?v=vp5igMt3IM0)
 - [DIY RGB LED Matrix](https://www.youtube.com/watch?v=JtgvVUUX6ng)
-- [Building a levitating lamp](https://www.youtube.com/watch?v=H9U5d88-Mq0)
 <!-- YOUTUBE:END -->
 
 ### 🎓 Latest Instructables
