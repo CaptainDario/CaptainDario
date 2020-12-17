@@ -32,6 +32,10 @@ My mobile Apps/Games on the [Play Store](https://play.google.com/store/apps/deve
 - [Freely Levitating Lamp](https://www.instructables.com/id/Freely-Levitating-Lamp/)
 <!-- INSTRUCTABLES:END -->
 
+### 📱 Mobile Apps
+- DaQuad: [Android](https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad)
+- DaStairs: [Android](https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs)
+
 </br>
 </br>
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. </br>
