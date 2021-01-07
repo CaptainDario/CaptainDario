@@ -35,6 +35,9 @@ Main programming languages: Python, C#, C++ </br>
 - DaQuad: [Android](https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad)
 - DaStairs: [Android](https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs)
 
+### 🖥️ Desktop Apps
+- DaKajiRecognizer: [Download](https://github.com/CaptainDario/DaKanjiRecognizer/releases/tag/1.0)
+
 </br>
 </br>
 
