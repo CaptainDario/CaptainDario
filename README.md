@@ -36,10 +36,11 @@ Main programming languages: Python, C#, C++ </br>
 - DaStairs: [Android](https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs)
 
 ### 🖥️ Desktop Apps
-- DaKajiRecognizer: [Download](https://github.com/CaptainDario/DaKanjiRecognizer/releases/tag/1.0)
+- DaKajiRecognizer: [Windows](https://github.com/CaptainDario/DaKanjiRecognizer/releases/tag/1.0)
 
 </br>
 </br>
 
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats.
+
 I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-workflow/) for the awesome always up-to date feed(s).
