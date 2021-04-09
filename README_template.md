@@ -49,7 +49,7 @@ I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-
 
 [DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
 
-[DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanji
+[DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanjiRecognizer
 [DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
