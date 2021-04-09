@@ -19,4 +19,4 @@ jobs:
         pip install google-play-scraper
     - name: run google play scraper
       run: |
-        python scr/get_play_reviews.py
+        python src/get_play_reviews.py
