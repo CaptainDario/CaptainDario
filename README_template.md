@@ -13,7 +13,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 ![CaptainDario's github stats](https://github-readme-stats-1-silk.vercel.app/api?username=captaindario&count_private=true)
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
-### 📱 and 🖥️ Apps / Games:
+### published 📱 and 🖥️ Apps / Games:
 |   name   |          Android        |  iOS  |       Windows      |        MacOS       |        Linux       |
 | :------: | :---------------------: | :---: | :----------------: | :----------------: | :----------------: |
 | DaQuad   | [%DaQuadAS%⭐ , %DaQuadAD%⬇️][DaQuadA]   |       |                    |                    |                    |
