@@ -14,11 +14,11 @@ Main programming languages: Python, Dart, C#, C++ </br>
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
 ### 📱 and 🖥️ Apps and Games:
-|   name   |          Android        |  iOS  |  Windows  |  MacOS  |  Linux  | Source | Stars |  genre  |
-| :------: | :---------------------: | :---: | :-------: | :-----: | :-----: | :----: | :---: | :-----: |
-| DaQuad   | [GooglePlay][DaQuadA]   |       |           |         |         |        |       |   game  |
-| DaStairs | [GooglePlay][DaStairsA] |       |           |         |         |        |       |   game  |
-| DaKanji  | [GooglePlay][DaKanjiA]  |       |           |         |         |        |       | utility |
+|   name   |          Android        |  iOS  |       Windows      |        MacOS       |        Linux       |
+| :------: | :---------------------: | :---: | :----------------: | :----------------: | :----------------: |
+| DaQuad   | [GooglePlay][DaQuadA]   |       |                    |                    |                    |
+| DaStairs | [GooglePlay][DaStairsA] |       |                    |                    |                    |
+| DaKanji  | [GooglePlay][DaKanjiA]  |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -47,5 +47,10 @@ I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-
 
 
 [DaQuadA]:   https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad
+
 [DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
+
 [DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanji
+[DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
+[DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
+[DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
