@@ -16,9 +16,9 @@ Main programming languages: Python, Dart, C#, C++ </br>
 ### 📱 and 🖥️ Apps / Games:
 |   name   |          Android        |  iOS  |       Windows      |        MacOS       |        Linux       |
 | :------: | :---------------------: | :---: | :----------------: | :----------------: | :----------------: |
-| DaQuad   | [GooglePlay][DaQuadA]   |       |                    |                    |                    |
-| DaStairs | [GooglePlay][DaStairsA] |       |                    |                    |                    |
-| DaKanji  | [⭐][DaKanjiA]  |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] |
+| DaQuad   | [5.00⭐ , 100+⬇️][DaQuadA]   |       |                    |                    |                    |
+| DaStairs | [4.80⭐ , 10+⬇️][DaStairsA] |       |                    |                    |                    |
+| DaKanji  | [4.92⭐ , 100+⬇️][DaKanjiA]  |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -44,13 +44,3 @@ Main programming languages: Python, Dart, C#, C++ </br>
  
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
 I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-workflow/) for the awesome always up-to date feed(s).
-
-
-[DaQuadA]:   https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad
-
-[DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
-
-[DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanjiRecognizer
-[DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
-[DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
-[DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
