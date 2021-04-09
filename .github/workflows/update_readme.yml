@@ -1,6 +1,8 @@
-name: Get Google Play Reviews
+name: Update README
 
-on: [push]
+on:
+  schedule:
+    - cron: 0 0 * * *
 
 jobs:
   build-linux:
