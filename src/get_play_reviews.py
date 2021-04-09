@@ -6,4 +6,6 @@ result = app(
     country='us' # defaults to 'us'
 )
 
-print(result)
+print("install:", result["installs"])
+print("stars:", result["score"])
+print("ratings:", result["ratings"])
