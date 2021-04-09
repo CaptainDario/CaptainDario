@@ -13,7 +13,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 ![CaptainDario's github stats](https://github-readme-stats-1-silk.vercel.app/api?username=captaindario&count_private=true)
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
-### 📱 and 🖥️ Apps / Games:
+### published 📱 and 🖥️ Apps / Games:
 |   name   |          Android        |  iOS  |       Windows      |        MacOS       |        Linux       |
 | :------: | :---------------------: | :---: | :----------------: | :----------------: | :----------------: |
 | DaQuad   | [5.00⭐ , 100+⬇️][DaQuadA]   |       |                    |                    |                    |
@@ -43,13 +43,12 @@ Main programming languages: Python, Dart, C#, C++ </br>
 </br>
  
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
-I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-workflow/) for the awesome always up-to date feed(s).
 
 [DaQuadA]:   https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad
 
 [DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
 
-[DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanji
+[DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanjiRecognizer
 [DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
