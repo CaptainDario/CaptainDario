@@ -6,7 +6,7 @@ on:
     - cron: 0 0 * * *
 
 jobs:
-  build-linux:
+  update_README:
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 5
