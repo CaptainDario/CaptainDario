@@ -1,7 +1,7 @@
 from google_play_scraper import app
 
 result = app(
-    'com.daapplab.dakanjirecognizer',
+    'com.DaAppLab.DaKanjiRecognizer',
     lang='en', # defaults to 'en'
     country='us' # defaults to 'us'
 )
