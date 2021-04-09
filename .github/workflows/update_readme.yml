@@ -21,4 +21,10 @@ jobs:
         pip install google-play-scraper
     - name: run google play scraper
       run: |
-        python src/get_play_reviews.py
+        python src/generate_README.py
+    - name: Commit report
+      run: |
+        git config --global user.name 'CaptainDario'
+        git config --global user.email 'daapplab@gmail.com'
+        git commit -am "gen_README.md"
+        git push
