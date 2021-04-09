@@ -23,6 +23,9 @@ jobs:
     - name: run google play scraper
       run: |
         python src/generate_README.py
+    - name: output files
+      run: |
+        ls -a
     - name: Commit report
       run: |
         git config --global user.name 'CaptainDario'
