@@ -40,9 +40,8 @@ Main programming languages: Python, C#, C++ </br>
 
 </br>
 </br>
-
-I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats.
-
+ 
+I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
 I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-workflow/) for the awesome always up-to date feed(s).
 
 
