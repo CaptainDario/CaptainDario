@@ -13,12 +13,12 @@ Main programming languages: Python, Dart, C#, C++ </br>
 ![CaptainDario's github stats](https://github-readme-stats-1-silk.vercel.app/api?username=captaindario&count_private=true)
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
-### 📱 and 🖥️ Apps and Games:
+### 📱 and 🖥️ Apps / Games:
 |   name   |          Android        |  iOS  |       Windows      |        MacOS       |        Linux       |
 | :------: | :---------------------: | :---: | :----------------: | :----------------: | :----------------: |
 | DaQuad   | [GooglePlay][DaQuadA]   |       |                    |                    |                    |
 | DaStairs | [GooglePlay][DaStairsA] |       |                    |                    |                    |
-| DaKanji  | [GooglePlay][DaKanjiA]  |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] |
+| DaKanji  | [⭐][DaKanjiA]  |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -50,7 +50,7 @@ I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-
 
 [DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
 
-[DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanji
+[DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanjiRecognizer
 [DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
