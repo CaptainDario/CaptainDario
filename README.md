@@ -7,11 +7,18 @@
 
 
 I am a computer science student and my main focus lies in AI, App development and IoT. </br>
-Main programming languages: Python, C#, C++ </br>
+Main programming languages: Python, Dart, C#, C++ </br>
 </br>
 
 ![CaptainDario's github stats](https://github-readme-stats-1-silk.vercel.app/api?username=captaindario&count_private=true)
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
+
+### 📱 and 🖥️ Apps and Games:
+|   name   |          Android        |  iOS  |  Windows  |  MacOS  |  Linux  | Source | Stars |  genre  |
+| :------: | :---------------------: | :---: | :-------: | :-----: | :-----: | :----: | :---: | :-----: |
+| DaQuad   | [GooglePlay][DaQuadA]   |       |           |         |         |        |       |   game  |
+| DaStairs | [GooglePlay][DaStairsA] |       |           |         |         |        |       |   game  |
+| DaKanji  | [GooglePlay][DaKanjiA]  |       |           |         |         |        |       | utility |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -31,12 +38,6 @@ Main programming languages: Python, C#, C++ </br>
 - [Freely Levitating Lamp](https://www.instructables.com/id/Freely-Levitating-Lamp/)
 <!-- INSTRUCTABLES:END -->
 
-### 📱 and 🖥️ Apps and Games:
-|   name   |          Android        |  iOS  |  Windows  |  MacOS  |  Linux  | Source | Stars |  genre  |
-| :------: | :---------------------: | :---: | :-------: | :-----: | :-----: | :----: | :---: | :-----: |
-| DaQuad   | [GooglePlay][DaQuadA]   |       |           |         |         |        |       |   game  |
-| DaStairs | [GooglePlay][DaStairsA] |       |           |         |         |        |       |   game  |
-| DaKanji  | [GooglePlay][DaKanjiA]  |       |           |         |         |        |       | utility |
 
 </br>
 </br>
