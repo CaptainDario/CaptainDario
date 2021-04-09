@@ -1,7 +1,7 @@
 import os
 from google_play_scraper import app
 
-
+debugging = False 
 
 def insert_daKanji(readme : str):
 
@@ -16,7 +16,7 @@ def insert_daKanji(readme : str):
     # put the rating in the README
     readme = readme.replace(r"%DaKanjiAS%", "{:.2f}".format(result["score"]))
     # put the rating in the README
-    readme = readme.replace(r"%DaKanjiAD%", result["installs"] + "asdasd")
+    readme = readme.replace(r"%DaKanjiAD%", result["installs"])
     return readme
 
 def insert_daQuad(readme : str):
@@ -64,5 +64,9 @@ if __name__ == "__main__":
     readme = insert_daQuad(readme)
     readme = insert_daStairs(readme)
 
-    with open(os.path.join(os.getcwd(), "gen_README.md"), "w+", encoding="utf8") as f:
-        f.write(readme)
+    if(debugging):
+        with open(os.path.join(os.getcwd(), "gen_README.md"), "w+", encoding="utf8") as f:
+            f.write(readme)
+    else:
+        with open(os.path.join(os.getcwd(), "README.md"), "w+", encoding="utf8") as f:
+            f.write(readme)
