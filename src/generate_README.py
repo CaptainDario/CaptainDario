@@ -2,8 +2,6 @@ import os
 from google_play_scraper import app
 
 
-debugging = False
-
 
 def insert_daKanji(readme : str):
 
@@ -66,6 +64,5 @@ if __name__ == "__main__":
     readme = insert_daQuad(readme)
     readme = insert_daStairs(readme)
 
-    if(debugging):
-        with open(os.path.join(os.getcwd(), "gen_README.md"), "w+", encoding="utf8") as f:
-            f.write(readme)
+    with open(os.path.join(os.getcwd(), "gen_README.md"), "w+", encoding="utf8") as f:
+        f.write(readme)
