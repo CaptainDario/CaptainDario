@@ -16,7 +16,7 @@ def insert_daKanji(readme : str):
     # put the rating in the README
     readme = readme.replace(r"%DaKanjiAS%", "{:.2f}".format(result["score"]))
     # put the rating in the README
-    readme = readme.replace(r"%DaKanjiAD%", result["installs"])
+    readme = readme.replace(r"%DaKanjiAD%", result["installs"] + "asdasd")
     return readme
 
 def insert_daQuad(readme : str):
