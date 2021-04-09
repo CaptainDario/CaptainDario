@@ -31,13 +31,12 @@ Main programming languages: Python, C#, C++ </br>
 - [Freely Levitating Lamp](https://www.instructables.com/id/Freely-Levitating-Lamp/)
 <!-- INSTRUCTABLES:END -->
 
-### 📱 Mobile Apps
-- DaQuad: [Android](https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad)
-- DaStairs: [Android](https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs)
-- Da Kanji Recognizer: [Android](https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanjiRecognizer)
-
-### 🖥️ Desktop Apps
-- DaKajiRecognizer: [Windows, Linux](https://github.com/CaptainDario/DaKanjiRecognizer/releases/)
+### 📱 and 🖥️ Apps and Games:
+|   name   |          Android        |  iOS  |  Windows  |  MacOS  |  Linux  | Source | Stars |  genre  |
+| :------: | :---------------------: | :---: | :-------: | :-----: | :-----: | :----: | :---: | :-----: |
+| DaQuad   | [GooglePlay][DaQuadA]   |       |           |         |         |        |       |   game  |
+| DaStairs | [GooglePlay][DaStairsA] |       |           |         |         |        |       |   game  |
+| DaKanji  | [GooglePlay][DaKanjiA]  |       |           |         |         |        |       | utility |
 
 </br>
 </br>
@@ -45,3 +44,8 @@ Main programming languages: Python, C#, C++ </br>
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats.
 
 I am using [Blog post workflow](https://www.github.com/gautamkrishnar/blog-post-workflow/) for the awesome always up-to date feed(s).
+
+
+[DaQuadA]:   https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad
+[DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
+[DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanji
