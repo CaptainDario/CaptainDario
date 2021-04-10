@@ -14,28 +14,28 @@ Main programming languages: Python, Dart, C#, C++ </br>
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
 ### published 📱 and 🖥️ Apps / Games:
-|   name   |          Android        |  iOS  |       Windows      |        MacOS       |        Linux       |
-| :------: | :---------------------: | :---: | :----------------: | :----------------: | :----------------: |
-| DaQuad   | [%DaQuadAS%⭐ %DaQuadAD%⬇️][DaQuadA]   |       |                    |                    |                    |
-| DaStairs | [%DaStairsAS%⭐ %DaStairsAD%⬇️][DaStairsA] |       |                    |                    |                    |
-| DaKanji  | [%DaKanjiAS%⭐ %DaKanjiAD%⬇️][DaKanjiA]  |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] |
+|   name   |                   Android                   |  iOS  |       Windows      |        MacOS       |        Linux       |                  Code                    |
+| :------: | :-----------------------------------------: | :---: | :----------------: | :----------------: | :----------------: | :--------------------------------------: |
+| DaQuad   | [%DaQuadAS%⭐ %DaQuadAD%⬇️][DaQuadA]       |       |                    |                    |                    |                                          |
+| DaStairs | [%DaStairsAS%⭐ %DaStairsAD%⬇️][DaStairsA] |       |                    |                    |                    |                                          |
+| DaKanji  | [%DaKanjiAS%⭐ %DaKanjiAD%⬇️][DaKanjiA]    |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] | [Mobile][DaKanjiMC] [Desktop][DaKanjiDC] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Building an awesome headphone holder](https://www.youtube.com/watch?v=rAv23blQrkI)
-- [Make your own 3D-jigsaw-puzzles](https://www.youtube.com/watch?v=Sl4_0uPr6Pk)
-- [Epic watercooled RGB workstation PC [timelapse]](https://www.youtube.com/watch?v=nSBbka363sI)
-- [An automated laser-pointer-toy](https://www.youtube.com/watch?v=vp5igMt3IM0)
-- [DIY RGB LED Matrix](https://www.youtube.com/watch?v=JtgvVUUX6ng)
+- [%Video1T%](%Video1URL%)
+- [%Video2T%](%Video2URL%)
+- [%Video3T%](%Video3URL%)
+- [%Video4T%](%Video4URL%)
+- [%Video5T%](%Video5URL%)
 <!-- YOUTUBE:END -->
 
 ### 🎓 Latest Instructables
 <!-- INSTRUCTABLES:START -->
-- [WiFi Enabled Matrix Lamp](https://www.instructables.com/id/WiFi-Enabled-Matrix-Lamp/)
-- [Store Your Headphones in Style](https://www.instructables.com/id/Store-Your-Headphones-in-Style/)
-- [Make Your Own 3D-jigsaw-puzzle](https://www.instructables.com/id/Make-Your-Own-3D-jigsaw-puzzle/)
-- [DaPetToy - an Automated Cat-laser-pointer-toy](https://www.instructables.com/id/An-Automated-Cat-laser-pointer-toy/)
-- [Freely Levitating Lamp](https://www.instructables.com/id/Freely-Levitating-Lamp/)
+- [%Instructable1T%](%Instructable1URL%)
+- [%Instructable2T%](%Instructable2URL%)
+- [%Instructable3T%](%Instructable3URL%)
+- [%Instructable4T%](%Instructable4URL%)
+- [%Instructable5T%](%Instructable5URL%)
 <!-- INSTRUCTABLES:END -->
 
 
@@ -52,3 +52,5 @@ I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readm
 [DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
+[DaKanjiDC]: https://github.com/CaptainDario/DaKanji-Desktop/
+[DaKanjiMC]: https://github.com/CaptainDario/DaKanji-Mobile/

@@ -20,6 +20,7 @@ jobs:
     - name: install google play scraper
       run: |
         pip install google-play-scraper
+        pip install requests 
     - name: run google play scraper
       run: |
         python src/generate_README.py
