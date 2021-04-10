@@ -14,28 +14,28 @@ Main programming languages: Python, Dart, C#, C++ </br>
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
 ### published 📱 and 🖥️ Apps / Games:
-|   name   |          Android        |  iOS  |       Windows      |        MacOS       |        Linux       |
-| :------: | :---------------------: | :---: | :----------------: | :----------------: | :----------------: |
-| DaQuad   | [5.00⭐ 100+⬇️][DaQuadA]   |       |                    |                    |                    |
-| DaStairs | [4.80⭐ 10+⬇️][DaStairsA] |       |                    |                    |                    |
-| DaKanji  | [4.92⭐ 100+⬇️][DaKanjiA]  |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] |
+|   name   |                   Android                   |  iOS  |       Windows      |        MacOS       |        Linux       |                  Code                    |
+| :------: | :-----------------------------------------: | :---: | :----------------: | :----------------: | :----------------: | :--------------------------------------: |
+| DaQuad   | [5.00⭐ 100+⬇️][DaQuadA]       |       |                    |                    |                    |                                          |
+| DaStairs | [4.80⭐ 10+⬇️][DaStairsA] |       |                    |                    |                    |                                          |
+| DaKanji  | [0.00⭐ 100+⬇️][DaKanjiA]    |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] | [Mobile][DaKanjiMC] [Desktop][DaKanjiDC] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Building an awesome headphone holder](https://www.youtube.com/watch?v=rAv23blQrkI)
-- [Make your own 3D-jigsaw-puzzles](https://www.youtube.com/watch?v=Sl4_0uPr6Pk)
-- [Epic watercooled RGB workstation PC [timelapse]](https://www.youtube.com/watch?v=nSBbka363sI)
-- [An automated laser-pointer-toy](https://www.youtube.com/watch?v=vp5igMt3IM0)
-- [DIY RGB LED Matrix](https://www.youtube.com/watch?v=JtgvVUUX6ng)
+- [Building an awesome headphone holder](https://www.youtube.com/v/rAv23blQrkI?version=3)
+- [Make your own 3D-jigsaw-puzzles](https://www.youtube.com/v/Sl4_0uPr6Pk?version=3)
+- [Epic watercooled RGB workstation PC [timelapse]](https://www.youtube.com/v/nSBbka363sI?version=3)
+- [An automated laser-pointer-toy](https://www.youtube.com/v/vp5igMt3IM0?version=3)
+- [DIY RGB LED Matrix](https://www.youtube.com/v/JtgvVUUX6ng?version=3)
 <!-- YOUTUBE:END -->
 
 ### 🎓 Latest Instructables
 <!-- INSTRUCTABLES:START -->
-- [WiFi Enabled Matrix Lamp](https://www.instructables.com/id/WiFi-Enabled-Matrix-Lamp/)
-- [Store Your Headphones in Style](https://www.instructables.com/id/Store-Your-Headphones-in-Style/)
-- [Make Your Own 3D-jigsaw-puzzle](https://www.instructables.com/id/Make-Your-Own-3D-jigsaw-puzzle/)
-- [DaPetToy - an Automated Cat-laser-pointer-toy](https://www.instructables.com/id/An-Automated-Cat-laser-pointer-toy/)
-- [Freely Levitating Lamp](https://www.instructables.com/id/Freely-Levitating-Lamp/)
+- [Store-Your-Headphones-in-Style](https://www.instructables.com/Store-Your-Headphones-in-Style/)
+- [Make-Your-Own-3D-jigsaw-puzzle](https://www.instructables.com/Make-Your-Own-3D-jigsaw-puzzle/)
+- [An-Automated-Cat-laser-pointer-toy](https://www.instructables.com/An-Automated-Cat-laser-pointer-toy/)
+- [Freely-Levitating-Lamp](https://www.instructables.com/Freely-Levitating-Lamp/)
+- [WiFi-Enabled-Matrix-Lamp](https://www.instructables.com/WiFi-Enabled-Matrix-Lamp/)
 <!-- INSTRUCTABLES:END -->
 
 
@@ -52,3 +52,5 @@ I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readm
 [DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
+[DaKanjiDC]: https://github.com/CaptainDario/DaKanji-Desktop/
+[DaKanjiMC]: https://github.com/CaptainDario/DaKanji-Mobile/
