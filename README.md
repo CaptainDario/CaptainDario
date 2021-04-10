@@ -18,7 +18,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 | :------: | :-----------------------------------------: | :---: | :----------------: | :----------------: | :----------------: | :--------------------------------------: |
 | DaQuad   | [5.00⭐ 100+⬇️][DaQuadA]       |       |                    |                    |                    |                                          |
 | DaStairs | [4.80⭐ 10+⬇️][DaStairsA] |       |                    |                    |                    |                                          |
-| DaKanji  | [0.00⭐ 100+⬇️][DaKanjiA]    |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] | [Mobile][DaKanjiMC] [Desktop][DaKanjiDC] |
+| DaKanji  | [4.92⭐ 100+⬇️][DaKanjiA]    |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] | [Mobile][DaKanjiMC] [Desktop][DaKanjiDC] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
