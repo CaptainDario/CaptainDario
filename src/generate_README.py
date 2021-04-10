@@ -1,10 +1,12 @@
 import os
 import requests
 import re
+from datetime import date
+import time
 
 from google_play_scraper import app
 
-debugging = False 
+debugging = False
 
 def insert_daKanji(readme : str):
 
@@ -94,6 +96,18 @@ def insert_instructables(readme : str):
 
     return readme
 
+def insert_update_date(readme : str):
+
+    current_date = date.today().strftime(r"%B %d, %Y")
+    t = time.localtime()
+    current_time = time.strftime("%H:%M:%S", t)
+
+    readme = readme.replace(r"%update%", " ".join([current_date,  current_time]))
+
+    return readme
+
+
+
 if __name__ == "__main__":
 
     readme = ""
@@ -108,6 +122,8 @@ if __name__ == "__main__":
 
     readme = insert_youtube(readme)
     readme = insert_instructables(readme)
+
+    readme = insert_update_date(readme)
 
 
     if(debugging):

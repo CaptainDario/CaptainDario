@@ -41,8 +41,12 @@ Main programming languages: Python, Dart, C#, C++ </br>
 
 </br>
 </br>
- 
+
+The last automatic update was: %update%
+
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
+
+
 
 [DaQuadA]:   https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad
 
