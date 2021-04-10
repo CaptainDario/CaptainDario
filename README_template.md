@@ -1,3 +1,5 @@
+<!-- Do NOT change the README.md it will be overwritten AUTOMATICALLY -->
+<!-- Only change the README_template.md -->
 ### Hi there, I am Dario 👋
 
 
@@ -14,11 +16,11 @@ Main programming languages: Python, Dart, C#, C++ </br>
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
 ### published 📱 and 🖥️ Apps / Games:
-|   name   |                   Android                   |  iOS  |       Windows      |        MacOS       |        Linux       |                  Code                    |
-| :------: | :-----------------------------------------: | :---: | :----------------: | :----------------: | :----------------: | :--------------------------------------: |
-| DaQuad   | [%DaQuadAS%⭐ %DaQuadAD%⬇️][DaQuadA]       |       |                    |                    |                    |                                          |
-| DaStairs | [%DaStairsAS%⭐ %DaStairsAD%⬇️][DaStairsA] |       |                    |                    |                    |                                          |
-| DaKanji  | [%DaKanjiAS%⭐ %DaKanjiAD%⬇️][DaKanjiA]    |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] | [Mobile][DaKanjiMC] [Desktop][DaKanjiDC] |
+|   name   |                   Android              |  iOS  |         Windows         |          MacOS          |          Linux          |                      Code                         |
+| :------: | :------------------------------------: | :---: | :---------------------: | :---------------------: | :---------------------: | :-----------------------------------------------: |
+| DaQuad   | [%DaQuadAS% %DaQuadAD%][DaQuadA]       |       |                         |                         |                         |                                                   |
+| DaStairs | [%DaStairsAS% %DaStairsAD%][DaStairsA] |       |                         |                         |                         |                                                   |
+| DaKanji  | [%DaKanjiAS% %DaKanjiAD%][DaKanjiA]    |       | [%DaKanjiDG%][DaKanjiW] | [%DaKanjiDG%][DaKanjiM] | [%DaKanjiDG%][DaKanjiW] | [%DaKanjiMG%][DaKanjiMC] [%DaKanjiDG%][DaKanjiDC] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->

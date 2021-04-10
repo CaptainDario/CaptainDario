@@ -6,7 +6,8 @@ import time
 
 from google_play_scraper import app
 
-debugging = False
+debugging =True 
+
 
 def insert_daKanji(readme : str):
 
@@ -19,9 +20,20 @@ def insert_daKanji(readme : str):
     print("DaKanji:\n", "\tinstall:", result["installs"], "stars:", result["score"], "ratings:", result["ratings"])
 
     # put the rating in the README
-    readme = readme.replace(r"%DaKanjiAS%", "{:.2f}".format(result["score"]))
-    # put the rating in the README
-    readme = readme.replace(r"%DaKanjiAD%", result["installs"])
+    readme = readme.replace(r"%DaKanjiAS%", "{:.2f}".format(result["score"]) + "⭐")
+    # put the playstore rating in the README
+    readme = readme.replace(r"%DaKanjiAD%", result["installs"] + "️⬇️")
+    
+    rest_api = "https://api.github.com/repos/CaptainDario/DaKanji-mobile"
+    page = requests.get(rest_api).json()
+    stars = page["stargazers_count"]
+    readme = readme.replace(r"%DaKanjiMG%", str(stars) + "⭐")
+    
+    rest_api = "https://api.github.com/repos/CaptainDario/DaKanji-desktop"
+    page = requests.get(rest_api).json()
+    stars = page["stargazers_count"]
+    readme = readme.replace(r"%DaKanjiDG%", str(stars) + "⭐")
+
     return readme
 
 def insert_daQuad(readme : str):
@@ -35,9 +47,9 @@ def insert_daQuad(readme : str):
     print("DaQuad:\n", "\tinstall:", result["installs"], "stars:", result["score"], "ratings:", result["ratings"])
 
     # put the rating in the README
-    readme = readme.replace(r"%DaQuadAS%", "{:.2f}".format(result["score"]))
+    readme = readme.replace(r"%DaQuadAS%", "{:.2f}".format(result["score"]) + "⭐")
     # put the rating in the README
-    readme = readme.replace(r"%DaQuadAD%", result["installs"])
+    readme = readme.replace(r"%DaQuadAD%", result["installs"] + "️⬇️")
     return readme
 
 def insert_daStairs(readme : str):
@@ -51,9 +63,9 @@ def insert_daStairs(readme : str):
     print("DaStairs:\n", "\tinstall:", result["installs"], "stars:", result["score"], "ratings:", result["ratings"])
 
     # put the rating in the README
-    readme = readme.replace(r"%DaStairsAS%", "{:.2f}".format(result["score"]))
+    readme = readme.replace(r"%DaStairsAS%", "{:.2f}".format(result["score"]) + "⭐")
     # put the rating in the README
-    readme = readme.replace(r"%DaStairsAD%", result["installs"])
+    readme = readme.replace(r"%DaStairsAD%", result["installs"] + "️⬇️")
     return readme
 
 def insert_youtube(readme : str):

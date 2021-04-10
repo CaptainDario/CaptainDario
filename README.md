@@ -18,7 +18,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 | :------: | :-----------------------------------------: | :---: | :----------------: | :----------------: | :----------------: | :--------------------------------------: |
 | DaQuad   | [5.00⭐ 100+⬇️][DaQuadA]       |       |                    |                    |                    |                                          |
 | DaStairs | [4.80⭐ 10+⬇️][DaStairsA] |       |                    |                    |                    |                                          |
-| DaKanji  | [4.92⭐ 100+⬇️][DaKanjiA]    |       | [GitHub][DaKanjiW] | [GitHub][DaKanjiM] | [GitHub][DaKanjiW] | [Mobile][DaKanjiMC] [Desktop][DaKanjiDC] |
+| DaKanji  | [4.92⭐ 100+⬇️][DaKanjiA]    |       | [7⭐][DaKanjiW] | [7⭐][DaKanjiM] | [7⭐][DaKanjiW] | [%DaKanjiMG%][DaKanjiMC] [7⭐][DaKanjiDC] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -41,8 +41,12 @@ Main programming languages: Python, Dart, C#, C++ </br>
 
 </br>
 </br>
- 
+
+The last automatic update was: April 10, 2021 11:40:43
+
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
+
+
 
 [DaQuadA]:   https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad
 
