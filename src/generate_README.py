@@ -6,7 +6,7 @@ import time
 
 from google_play_scraper import app
 
-debugging =True 
+debugging = False 
 
 
 def insert_daKanji(readme : str):
@@ -135,12 +135,13 @@ if __name__ == "__main__":
     readme = insert_youtube(readme)
     readme = insert_instructables(readme)
 
-    readme = insert_update_date(readme)
 
 
     if(debugging):
         with open(os.path.join(os.getcwd(), "gen_README.md"), "w+", encoding="utf8") as f:
             f.write(readme)
     else:
+        readme = insert_update_date(readme)
+        
         with open(os.path.join(os.getcwd(), "README.md"), "w+", encoding="utf8") as f:
             f.write(readme)
