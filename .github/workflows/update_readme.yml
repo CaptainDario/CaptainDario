@@ -17,17 +17,14 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - name: install google play scraper
+    - name: install python packages 
       run: |
         pip install google-play-scraper
         pip install requests 
-    - name: run google play scraper
+    - name: generate updated README.md 
       run: |
         python src/generate_README.py
-    - name: output files
-      run: |
-        ls -a
-    - name: Commit report
+    - name: Commit new README.md
       run: |
         git config --global user.name 'CaptainDario'
         git config --global user.email 'daapplab@gmail.com'
