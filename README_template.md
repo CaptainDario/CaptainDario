@@ -20,7 +20,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 | :------: | :------------------------------------: | :---: | :---------------------: | :---------------------: | :---------------------: | :-----------------------------------------------: |
 | DaQuad   | [%DaQuadAS% %DaQuadAD%][DaQuadA]       |       |                         |                         |                         |                                                   |
 | DaStairs | [%DaStairsAS% %DaStairsAD%][DaStairsA] |       |                         |                         |                         |                                                   |
-| DaKanji  | [%DaKanjiAS% %DaKanjiAD%][DaKanjiA]    |       | [%DaKanjiDG%][DaKanjiW] | [%DaKanjiDG%][DaKanjiM] | [%DaKanjiDG%][DaKanjiW] | [%DaKanjiMG%][DaKanjiMC] [%DaKanjiDG%][DaKanjiDC] |
+| DaKanji  | [%DaKanjiAS% %DaKanjiAD%][DaKanjiA]    |       | [%DaKanjiDW%][DaKanjiW] | [%DaKanjiDM%][DaKanjiM] | [%DaKanjiDL%][DaKanjiL] | [%DaKanjiMG%][DaKanjiMC] [%DaKanjiDG%][DaKanjiDC] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->

@@ -6,7 +6,7 @@ import time
 
 from google_play_scraper import app
 
-debugging = False 
+debugging = True 
 
 
 def insert_daKanji(readme : str):
@@ -19,19 +19,32 @@ def insert_daKanji(readme : str):
 
     print("DaKanji:\n", "\tinstall:", result["installs"], "stars:", result["score"], "ratings:", result["ratings"])
 
-    # put the rating in the README
-    readme = readme.replace(r"%DaKanjiAS%", "{:.2f}".format(result["score"]) + "⭐")
     # put the playstore rating in the README
+    readme = readme.replace(r"%DaKanjiAS%", "{:.2f}".format(result["score"]) + "⭐")
+    # put the playstore downloads in the README
     readme = readme.replace(r"%DaKanjiAD%", result["installs"] + "️⬇️")
     
+    # microsoft store rating
+    readme = readme.replace("%DaKanjiDW%", "Download") 
+    
+    # snap store rating
+    readme = readme.replace("%DaKanjiDL%", "Download") 
+    
+    # Mac app store rating
+    readme = readme.replace("%DaKanjiDM%", "Download") 
+
+    # github mobile stars
     rest_api = "https://api.github.com/repos/CaptainDario/DaKanji-mobile"
     page = requests.get(rest_api).json()
     stars = page["stargazers_count"]
     readme = readme.replace(r"%DaKanjiMG%", str(stars) + "⭐")
-    
+
+    # github desktop stars on github
     rest_api = "https://api.github.com/repos/CaptainDario/DaKanji-desktop"
     page = requests.get(rest_api).json()
     stars = page["stargazers_count"]
+    readme = readme.replace(r"%DaKanjiDG%", str(stars) + "⭐")
+    
     readme = readme.replace(r"%DaKanjiDG%", str(stars) + "⭐")
 
     return readme
