@@ -6,7 +6,7 @@ import time
 
 from google_play_scraper import app
 
-debugging = True 
+debugging = False 
 
 
 def insert_daKanji(readme : str):
