@@ -6,16 +6,19 @@ import time
 
 from google_play_scraper import app
 
-debugging = False 
+debugging = True 
 
 
 def insert_daKanji(readme : str):
 
-    result = app(
-        'com.DaAppLab.DaKanjiRecognizer',
-        lang='en', # defaults to 'en'
-        country='us' # defaults to 'us'
-    )
+    result = { "score" : 0.0}
+
+    while (result["score"] == 0.0):
+        result = app(
+            'com.DaAppLab.DaKanjiRecognizer',
+            lang='en', # defaults to 'en'
+            country='us' # defaults to 'us'
+        )
 
     print("DaKanji:\n", "\tinstall:", result["installs"], "stars:", result["score"], "ratings:", result["ratings"])
 
@@ -51,11 +54,14 @@ def insert_daKanji(readme : str):
 
 def insert_daQuad(readme : str):
 
-    result = app(
-        'com.DaAppLab.DaQuad',
-        lang='en', # defaults to 'en'
-        country='us' # defaults to 'us'
-    )
+    result = { "score" : 0.0}
+
+    while (result["score"] == 0.0):
+        result = app(
+            'com.DaAppLab.DaQuad',
+            lang='en', # defaults to 'en'
+            country='us' # defaults to 'us'
+        )
 
     print("DaQuad:\n", "\tinstall:", result["installs"], "stars:", result["score"], "ratings:", result["ratings"])
 
@@ -67,11 +73,14 @@ def insert_daQuad(readme : str):
 
 def insert_daStairs(readme : str):
 
-    result = app(
-        'com.DaAppLab.DaStairs',
-        lang='en', # defaults to 'en'
-        country='us' # defaults to 'us'
-    )
+    result = { "score" : 0.0}
+
+    while (result["score"] == 0.0):
+        result = app(
+            'com.DaAppLab.DaStairs',
+            lang='en', # defaults to 'en'
+            country='us' # defaults to 'us'
+        )
 
     print("DaStairs:\n", "\tinstall:", result["installs"], "stars:", result["score"], "ratings:", result["ratings"])
 
