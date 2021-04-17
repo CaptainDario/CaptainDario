@@ -55,7 +55,7 @@ I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readm
 [DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
 
 [DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanjiRecognizer
-[DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
+[DaKanjiW]: https://www.microsoft.com/de-de/p/dakanji/9n08051t2xtv?cid=storebadge&ocid=badge&rtc=1&activetab=pivot:overviewtab
 [DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiDC]: https://github.com/CaptainDario/DaKanji-Desktop/

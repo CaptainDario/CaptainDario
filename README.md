@@ -20,7 +20,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 | :------: | :------------------------------------: | :---: | :---------------------: | :---------------------: | :---------------------: | :-----------------------------------------------: |
 | DaQuad   | [5.00⭐ 100+️⬇️][DaQuadA]       |       |                         |                         |                         |                                                   |
 | DaStairs | [4.80⭐ 10+️⬇️][DaStairsA] |       |                         |                         |                         |                                                   |
-| DaKanji  | [4.93⭐ 100+️⬇️][DaKanjiA]    |       | [11⭐][DaKanjiW] | [11⭐][DaKanjiM] | [11⭐][DaKanjiW] | [7⭐][DaKanjiMC] [11⭐][DaKanjiDC] |
+| DaKanji  | [4.93⭐ 100+️⬇️][DaKanjiA]    |       | [Download][DaKanjiW] | [Download][DaKanjiM] | [Download][DaKanjiL] | [7⭐][DaKanjiMC] [11⭐][DaKanjiDC] |
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -44,7 +44,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 </br>
 </br>
 
-The last automatic update was: April 11, 2021 00:15:51
+The last automatic update was: April 17, 2021 00:13:37
 
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
 
@@ -55,7 +55,7 @@ I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readm
 [DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
 
 [DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanjiRecognizer
-[DaKanjiW]: https://github.com/CaptainDario/DaKanji-Desktop/releases
+[DaKanjiW]: https://www.microsoft.com/de-de/p/dakanji/9n08051t2xtv?cid=storebadge&ocid=badge&rtc=1&activetab=pivot:overviewtab
 [DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiDC]: https://github.com/CaptainDario/DaKanji-Desktop/
