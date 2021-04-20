@@ -18,9 +18,9 @@ Main programming languages: Python, Dart, C#, C++ </br>
 ### published 📱 and 🖥️ Apps / Games:
 |   name   |                   Android              |  iOS  |         Windows         |          MacOS          |          Linux          |                      Code                         |
 | :------: | :------------------------------------: | :---: | :---------------------: | :---------------------: | :---------------------: | :-----------------------------------------------: |
-| DaQuad   | [%DaQuadAS% %DaQuadAD%][DaQuadA]       |       |                         |                         |                         |                                                   |
-| DaStairs | [%DaStairsAS% %DaStairsAD%][DaStairsA] |       |                         |                         |                         |                                                   |
 | DaKanji  | [%DaKanjiAS% %DaKanjiAD%][DaKanjiA]    |       | [%DaKanjiDW%][DaKanjiW] | [%DaKanjiDM%][DaKanjiM] | [%DaKanjiDL%][DaKanjiL] | [%DaKanjiMG%][DaKanjiMC] [%DaKanjiDG%][DaKanjiDC] |
+| DaQuad   | [%DaQuadAS% %DaQuadAD%][DaQuadA]       |       |                         |                         |                         |                                                   |
+| DaStairs | [%DaStairsAS% %DaStairsAD%][DaStairsA] |       |                         |                         |                         |                                                   
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
