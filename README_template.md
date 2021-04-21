@@ -3,8 +3,8 @@
 ### Hi there, I am Dario 👋
 
 
-- 🔭 I’m currently working on: Different IoT projects and a first app prototype.
-- 🌱 I’m currently learning: AI, IoT, App development and Open SCAD.
+- 🔭 I’m currently working on: a first app and machine learning approaches to help study the japanese language.
+- 🌱 I’m currently learning: Machine Learning, App development with Tensorflow lite and SQL.
 - ⚡ Fun fact: In love with programming and human languages.
 
 
