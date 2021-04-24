@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on: a first app and machine learning approaches to help study the japanese language.
-- 🌱 I’m currently learning: Machine Learning, App development with Tensorflow lite and SQL.
+- 🌱 I’m currently learning: Machine Learning, App development with Flutter and SQL.
 - ⚡ Fun fact: In love with programming and human languages.
 
 
@@ -22,23 +22,14 @@ Main programming languages: Python, Dart, C#, C++ </br>
 | DaQuad   | [%DaQuadAS% %DaQuadAD%][DaQuadA]       |       |                         |                         |                         |                                                   |
 | DaStairs | [%DaStairsAS% %DaStairsAD%][DaStairsA] |       |                         |                         |                         |                                                   
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [%Video1T%](%Video1URL%)
-- [%Video2T%](%Video2URL%)
-- [%Video3T%](%Video3URL%)
-- [%Video4T%](%Video4URL%)
-- [%Video5T%](%Video5URL%)
-<!-- YOUTUBE:END -->
 
-### 🎓 Latest Instructables
-<!-- INSTRUCTABLES:START -->
-- [%Instructable1T%](%Instructable1URL%)
-- [%Instructable2T%](%Instructable2URL%)
-- [%Instructable3T%](%Instructable3URL%)
-- [%Instructable4T%](%Instructable4URL%)
-- [%Instructable5T%](%Instructable5URL%)
-<!-- INSTRUCTABLES:END -->
+| 🎓 Instructables | 📺 YouTube Videos |
+| :-----: | :-----: |
+| [%Instructable1T%](%Instructable1URL%) | [%Video1T%](%Video1URL%) | 
+| [%Instructable2T%](%Instructable2URL%) | [%Video2T%](%Video2URL%) |
+| [%Instructable3T%](%Instructable3URL%) | [%Video3T%](%Video3URL%) |
+| [%Instructable4T%](%Instructable4URL%) | [%Video4T%](%Video4URL%) |
+| [%Instructable5T%](%Instructable5URL%) | [%Video5T%](%Video5URL%) |
 
 
 </br>
