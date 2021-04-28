@@ -3,7 +3,7 @@
 ### Hi there, I am Dario 👋
 
 
-- 🔭 I’m currently working on: a first app and machine learning approaches to help study the japanese language.
+- 🔭 I’m currently working on: a machine learning app for studying Japanese.
 - 🌱 I’m currently learning: Machine Learning, App development with Flutter and SQL.
 - ⚡ Fun fact: In love with programming and human languages.
 
@@ -35,7 +35,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 </br>
 </br>
 
-The last automatic update was: April 28, 2021 00:13:57
+The last automatic update was: April 28, 2021 18:52:32
 
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
 
