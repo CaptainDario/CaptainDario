@@ -3,7 +3,7 @@
 ### Hi there, I am Dario 👋
 
 
-- 🔭 I’m currently working on: a first app and machine learning approaches to help study the japanese language.
+- 🔭 I’m currently working on: a machine learning app for studying Japanese.
 - 🌱 I’m currently learning: Machine Learning, App development with Flutter and SQL.
 - ⚡ Fun fact: In love with programming and human languages.
 
