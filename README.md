@@ -18,7 +18,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 ### published 📱 and 🖥️ Apps / Games:
 |   name   |                   Android              |  iOS  |         Windows         |          MacOS          |          Linux          |                      Code                         |
 | :------: | :------------------------------------: | :---: | :---------------------: | :---------------------: | :---------------------: | :-----------------------------------------------: |
-| DaKanji  | [4.94⭐ 100+️⬇️][DaKanjiA]    |       | [Download][DaKanjiW] | [Download][DaKanjiM] | [Download][DaKanjiL] | [7⭐][DaKanjiMC] [11⭐][DaKanjiDC] |
+| DaKanji  | [4.94⭐ 100+️⬇️][DaKanjiA]    |       | [Download][DaKanjiW] | [Download][DaKanjiM] | [Download][DaKanjiL] | [8⭐][DaKanjiMC] [11⭐][DaKanjiDC] |
 | DaQuad   | [5.00⭐ 100+️⬇️][DaQuadA]       |       |                         |                         |                         |                                                   |
 | DaStairs | [4.80⭐ 10+️⬇️][DaStairsA] |       |                         |                         |                         |                                                   
 
@@ -35,7 +35,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 </br>
 </br>
 
-The last automatic update was: June 04, 2021 01:40:43
+The last automatic update was: June 05, 2021 01:16:14
 
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
 
