@@ -12,13 +12,13 @@ I am a computer science student and my main focus lies in AI, App development an
 Main programming languages: Python, Dart, C#, C++ </br>
 </br>
 
-![CaptainDario's github stats](https://github-readme-stats.vercel.app/api?username=captaindario&count_private=true)
+![CaptainDario's github stats](https://github-readme-stats-1-silk.vercel.app/api?username=captaindario&count_private=true)
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
 ### published 📱 and 🖥️ Apps / Games:
 |   name   |                   Android              |  iOS  |         Windows         |          MacOS          |          Linux          |                      Code                         |
 | :------: | :------------------------------------: | :---: | :---------------------: | :---------------------: | :---------------------: | :-----------------------------------------------: |
-| DaKanji  | [4.88⭐ 100+️⬇️][DaKanjiA]    |       | [Download][DaKanjiW] | [Download][DaKanjiM] | [Download][DaKanjiL] | [10⭐][DaKanjiMC] [13⭐][DaKanjiDC] |
+| DaKanji  | [4.89⭐ 100+️⬇️][DaKanjiA]    |       | [Download][DaKanjiW] | [Download][DaKanjiM] | [Download][DaKanjiL] | [11⭐][DaKanjiMC] [15⭐][DaKanjiDC] |
 | DaQuad   | [5.00⭐ 100+️⬇️][DaQuadA]       |       |                         |                         |                         |                                                   |
 | DaStairs | [4.80⭐ 10+️⬇️][DaStairsA] |       |                         |                         |                         |                                                   
 
@@ -35,7 +35,7 @@ Main programming languages: Python, Dart, C#, C++ </br>
 </br>
 </br>
 
-The last automatic update was: October 26, 2021 00:47:18
+The last automatic update was: November 13, 2021 00:47:05
 
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
 
