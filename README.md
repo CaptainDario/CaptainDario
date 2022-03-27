@@ -14,11 +14,11 @@ Main programming languages: Python, Dart, C#, C++ </br>
 [![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
 ### published 📱 and 🖥️ Apps / Games:
-|   name   |                   Android              |  iOS  |         Windows         |          MacOS          |          Linux          |                      Code                         |
-| :------: | :------------------------------------: | :---: | :---------------------: | :---------------------: | :---------------------: | :-----------------------------------------------: |
-| DaKanji  | [DaKanjiA]    |       | [Download][DaKanjiW] | [Download][DaKanjiM] | [Download][DaKanjiL] | [DaKanjiMC] [DaKanjiDC] |
-| DaQuad   | [DaQuadA]       |       |                         |                         |                         |                                                   |
-| DaStairs | [DaStairsA] |       |                         |                         |                         |                                                   
+| name | Android |  iOS  | Windows | MacOS | Linux | Code |
+| :---: | | :---: || :---: || :---: || :---: || :---: || :---: |
+| DaKanji  | [⬇️][DaKanjiA] |   | [⬇️][DaKanjiW] | [⬇️][DaKanjiM] | [⬇️][DaKanjiL] | [⬇️][DaKanjiDC] |
+| DaQuad   | [⬇️][DaQuadA] | | | | | |
+| DaStairs | [⬇️][DaStairsA] | | | | |                                                   
 
 
 | 🎓 Instructables | 📺 YouTube Videos |
@@ -40,10 +40,13 @@ I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readm
 
 [DaQuadA]:   https://play.google.com/store/apps/details?id=com.DaAppLab.DaQuad
 
+
 [DaStairsA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaStairs
+
 
 [DaKanjiA]: https://play.google.com/store/apps/details?id=com.DaAppLab.DaKanjiRecognizer
 [DaKanjiW]: https://www.microsoft.com/de-de/p/dakanji/9n08051t2xtv?cid=storebadge&ocid=badge&rtc=1&activetab=pivot:overviewtab
+[DaKanjiI]: https://apps.apple.com/de/app/dakanji/id1593741764?l=en
 [DaKanjiM]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiL]: https://github.com/CaptainDario/DaKanji-Desktop/releases
 [DaKanjiDC]: https://github.com/CaptainDario/DaKanji-Desktop/
