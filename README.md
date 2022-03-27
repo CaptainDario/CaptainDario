@@ -1,5 +1,3 @@
-<!-- Do NOT change the README.md it will be overwritten AUTOMATICALLY -->
-<!-- Only change the README_template.md -->
 ### Hi there, I am Dario 👋
 
 
@@ -18,9 +16,9 @@ Main programming languages: Python, Dart, C#, C++ </br>
 ### published 📱 and 🖥️ Apps / Games:
 |   name   |                   Android              |  iOS  |         Windows         |          MacOS          |          Linux          |                      Code                         |
 | :------: | :------------------------------------: | :---: | :---------------------: | :---------------------: | :---------------------: | :-----------------------------------------------: |
-| DaKanji  | [4.90⭐ 100+️⬇️][DaKanjiA]    |       | [Download][DaKanjiW] | [Download][DaKanjiM] | [Download][DaKanjiL] | [11⭐][DaKanjiMC] [16⭐][DaKanjiDC] |
-| DaQuad   | [5.00⭐ 100+️⬇️][DaQuadA]       |       |                         |                         |                         |                                                   |
-| DaStairs | [4.80⭐ 10+️⬇️][DaStairsA] |       |                         |                         |                         |                                                   
+| DaKanji  | [DaKanjiA]    |       | [Download][DaKanjiW] | [Download][DaKanjiM] | [Download][DaKanjiL] | [DaKanjiMC] [DaKanjiDC] |
+| DaQuad   | [DaQuadA]       |       |                         |                         |                         |                                                   |
+| DaStairs | [DaStairsA] |       |                         |                         |                         |                                                   
 
 
 | 🎓 Instructables | 📺 YouTube Videos |
@@ -35,7 +33,6 @@ Main programming languages: Python, Dart, C#, C++ </br>
 </br>
 </br>
 
-The last automatic update was: December 15, 2021 00:51:17
 
 I am using [github-readme-stats](https://www.github.com/anuraghazra/github-readme-stats/) for the awesome github stats. <br/>
 
