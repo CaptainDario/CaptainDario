@@ -21,15 +21,6 @@ Main programming languages: Python, Dart, C#, C++ </br>
 | DaStairs | [⬇️][DaStairsA] | | | | |                                                   
 
 
-| 🎓 Instructables | 📺 YouTube Videos |
-| :-----: | :-----: |
-| [Store-Your-Headphones-in-Style](https://www.instructables.com/Store-Your-Headphones-in-Style/) | [Building an awesome headphone holder](https://www.youtube.com/v/rAv23blQrkI?version=3) | 
-| [Make-Your-Own-3D-jigsaw-puzzle](https://www.instructables.com/Make-Your-Own-3D-jigsaw-puzzle/) | [Make your own 3D-jigsaw-puzzles](https://www.youtube.com/v/Sl4_0uPr6Pk?version=3) |
-| [An-Automated-Cat-laser-pointer-toy](https://www.instructables.com/An-Automated-Cat-laser-pointer-toy/) | [Epic watercooled RGB workstation PC [timelapse]](https://www.youtube.com/v/nSBbka363sI?version=3) |
-| [Freely-Levitating-Lamp](https://www.instructables.com/Freely-Levitating-Lamp/) | [An automated laser-pointer-toy](https://www.youtube.com/v/vp5igMt3IM0?version=3) |
-| [WiFi-Enabled-Matrix-Lamp](https://www.instructables.com/WiFi-Enabled-Matrix-Lamp/) | [DIY RGB LED Matrix](https://www.youtube.com/v/JtgvVUUX6ng?version=3) |
-
-
 </br>
 </br>
 
