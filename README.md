@@ -1,17 +1,15 @@
 ### Hi there, I am Dario 👋
+I am a machine learning engineer with a deep passion for programming and problem-solving. My primary programming languages are Python, Dart, and C++.
 
-
-- 🔭 I’m currently working on: a machine learning app for studying Japanese.
+- 🔭 I’m currently working on: DaKanji, an app that applies machine learning to help learn Japanese.
 - 🌱 I’m currently learning: Machine Learning, App development with Flutter and SQL.
 - ⚡ Fun fact: In love with programming and human languages.
 
 
-I am a computer science student and my main focus lies in AI, App development and IoT. </br>
-Main programming languages: Python, Dart, C#, C++ </br>
+</br>
 </br>
 
 ![CaptainDario's github stats](https://github-readme-stats-1-silk.vercel.app/api?username=captaindario&count_private=true)
-[![Top Langs](https://github-readme-stats-1-silk.vercel.app/api/top-langs/?username=captaindario&hide=g-code,Jupyter%20Notebook,Tex&langs_count=10&layout=compact)](https://github.com/captaindario/github-readme-stats)
 
 ### published 📱 and 🖥️ Apps / Games:
 | name | Android |  iOS  | Windows | MacOS | Linux | Code |
