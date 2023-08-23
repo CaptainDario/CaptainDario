@@ -1,5 +1,5 @@
 ### Hi there, I am Dario 👋
-I am a machine learning engineer with a deep passion for programming and problem-solving. My primary programming languages are Python, Dart, and C++.
+I am a machine learning engineer with a deep passion for programming and problem-solving. My primary programming languages are Python, Dart, and some C++ here and there.
 
 - 🔭 I’m currently working on: DaKanji, an app that applies machine learning to help learn Japanese.
 - 🌱 I’m currently learning: Machine Learning, App development with Flutter and SQL.
