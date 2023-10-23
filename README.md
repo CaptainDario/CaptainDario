@@ -3,7 +3,7 @@ I am a machine learning engineer with a deep passion for programming and problem
 
 - 🔭 I’m currently working on: DaKanji, an app that applies machine learning to help learn Japanese.
 - 🌱 I’m currently learning: Machine Learning, App development with Flutter and SQL.
-- ⚡ Fun fact: In love with programming and human languages.
+- ⚡ Fun fact: In love with programming and human languages 🇩🇪🇬🇧🇪🇦🇯🇵.
 
 
 </br>
